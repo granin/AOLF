@@ -1,0 +1,16 @@
+
+*bold text*	
+_italic text_	
+*_bold italic text_*
+-strikethrough text-
+*-bold strikethrough text-*
+*_-bold italic strikethrough text-_*	
++underlined text+	
+*+bold underlined text+*
+_+italic underlined text+_
+*_+bold italic underlined text+_*
+*_-+bold italic strikethrough underlined text+-_*
+%{color:red}text in red %	
+Link to Wikipedia":http://www.wikipedia.org	Link to Wikipedia
+
+
